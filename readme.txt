@@ -6,7 +6,11 @@ Git is a distributed version control system.
  
  修复bug 2
 
+
  修复bug3
 
 
+
+
+ 修复bug4
 
