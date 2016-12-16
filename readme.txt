@@ -5,6 +5,6 @@ Git tracks changes of files.
 fuck
 dev
 
-test dev
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
