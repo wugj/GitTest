@@ -8,4 +8,4 @@ dev
 
 Creating a new branch is quick AND simple.
 
-master
+feature1 master
