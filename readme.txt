@@ -5,4 +5,8 @@ Git tracks changes of files.
 fuck
 dev
 
+
 Creating a new branch is quick AND simple.
+
+
+feature1
